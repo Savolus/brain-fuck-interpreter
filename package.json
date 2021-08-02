@@ -1,0 +1,13 @@
+{
+  "name": "brain-fuck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brain-fuck.js",
+  "type": "module",
+  "scripts": {
+    "fuck": "node brain-fuck.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
